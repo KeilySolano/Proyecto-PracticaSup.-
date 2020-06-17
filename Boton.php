@@ -12,16 +12,8 @@ if($opcion == 'administrador')
 
 else if($opcion == 'trabajador')
 {
-    header("location:Trabajador.html");
+    header("location:Trabajador.php");
 }  
 
-else if($opcion == 'divs')
-{
- echo "Nop";
-}
 
-else if($opcion == 'rest')
-{
- echo "Nop";
-}
 ?>
