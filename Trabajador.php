@@ -13,7 +13,7 @@
         
         <form method="post" action="index.html">
                     <div class="controls">                        
-                        <button type="submit" class="btn btn-default btn-block btn-custom">Login</button>
+                        <button type="submit" class="btn btn-default btn-block btn-custom">Agregar</button>
                     </div>                  
         </form>            
      
@@ -21,16 +21,16 @@
 	<table align="center" border=1 bgcolor="#FFFFFF">
                     <tr>
                         <td bgcolor="#777777">
-                            <p>Nombre</p>
+                            <p>Nombre del producto</p>
                         </td>
                         <td bgcolor="#777777">
-                            <p>Apellido</p>
+                            <p>Cantidad</p>
                         </td>
                         <td bgcolor="#777777">
-                            <p>Usuario</p>
+                            <p>Precio</p>
                         </td>
                         <td bgcolor="#777777">
-                            <p>Contraseña</p>
+                            <p>Codigo</p>
                         </td>
                     </tr>
                     <?php
